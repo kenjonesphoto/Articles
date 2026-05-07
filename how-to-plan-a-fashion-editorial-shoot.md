@@ -1,4 +1,3 @@
-[how-to-plan-a-fashion-editorial-shoot.md](https://github.com/user-attachments/files/27489110/how-to-plan-a-fashion-editorial-shoot.md)
 ---
 title: "How to Plan a Fashion Editorial Shoot"
 description: "A practical guide to planning a fashion editorial shoot, including concept, styling, models, hair and makeup, location, lighting, production, and post-production."
