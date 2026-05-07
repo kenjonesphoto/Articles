@@ -1,3 +1,4 @@
+---
 title: "Studio vs. On-Location Corporate Headshots"
 description: "A guide to choosing between studio headshots and on-location corporate portraits for executives, professionals, teams, and companies in New York City."
 permalink: /studio-vs-on-location-corporate-headshots/
@@ -207,4 +208,4 @@ An environmental business portrait is a professional portrait photographed in a 
 
 ### Does Ken Jones Photography offer both studio and on-location headshots?
 
-Yes. Ken Jones Photography offers corporate headshots in studio and on location throughout New York City.
+Yes. Ken Jones Photography offers corporate hea
